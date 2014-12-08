@@ -6,9 +6,11 @@ Web is unsafe place, beware, there are many bugs lurking in dark corners of your
 To start husting this ugly creatures of night you need to prepare:
 
 - install nodejs
+- install phantomJS
 - install casperJS - your main hunting tool by using the next command
 
 ```
+npm install phantomjs -g
 npm install casperjs -g
 ```
 
